@@ -47,7 +47,7 @@ Bycrpt (for password hashing).
 
 Sequalize ,express.
 
-# Heroku link to the deployed app:
+# Heroku link of deployed app:
 (https://cookie-monster-mvc-b8ff3eb840fd.herokuapp.com/)
 
 # APP
